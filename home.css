@@ -29,7 +29,11 @@ body {
 /* Responsive */
 
 
-
+.header-subtitle {
+  font-weight: 600;
+  font-size: 24px;
+  color: wheat;
+}
 
 
 .start {
@@ -124,7 +128,7 @@ body {
 .start-text_body {
   margin-top: 20px;
   font-size: 25px;
-  color: #eeeeee;
+  color: wheat;
   line-height: 100%;
 }
 
